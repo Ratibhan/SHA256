@@ -1,1 +1,2 @@
-# SHA256
+Cryptographic Hash Functions
+In cryptography, hash functions transform input data of arbitrary size (e.g. a text message) to a result of fixed size (e.g. 256 bits), which is called hash value (or hash code, message digest, or simply hash). Hash functions (hashing algorithms) used in computer cryptography are known as "cryptographic hash functions". Examples of such functions are SHA-256 and SHA3-256, which transform arbitrary input to 256-bit output.
